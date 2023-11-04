@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "lute"]
+	path = lute
+	url = https://github.com/metamaden/lute
 [submodule "recountmethylation"]
 	path = recountmethylation
 	url = https://github.com/metamaden/recountmethylation
